@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RISH-55</Machine>
+    <WindowsUser>Rishabh</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d78c7a77-6232-4382-9cda-1716463e37b9</PackageIdentityName>
+    <IntermediateOutputPath>D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>78FB17DEFE292949EECD2BAAB890213AC7C271BA0CDCFF1A979EC729E2B54690</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d78c7a77-6232-4382-9cda-1716463e37b9_1.0.0.0_neutral__26fwy275hr5r4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d78c7a77-6232-4382-9cda-1716463e37b9_26fwy275hr5r4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d78c7a77-6232-4382-9cda-1716463e37b9</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Rishabh</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-07T06:26:47.568</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\bin\Debug\Geek City.exe">
+      <PackagePath>Geek City.exe</PackagePath>
+      <Modified>2016-05-07T06:26:45.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\123.png">
+      <PackagePath>Assets\123.png</PackagePath>
+      <Modified>2016-01-09T23:19:19.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\30by30.png">
+      <PackagePath>Assets\30by30.png</PackagePath>
+      <Modified>2016-01-10T02:53:49.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\50by50.png">
+      <PackagePath>Assets\50by50.png</PackagePath>
+      <Modified>2016-01-10T03:01:41.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <Modified>2016-01-10T02:26:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <Modified>2016-01-10T02:16:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\logo1.png">
+      <PackagePath>Assets\logo1.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-10T02:51:48.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <Modified>2016-01-10T02:52:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:35:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\Square30x30Logo.scale-100.png">
+      <PackagePath>Assets\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-10T02:52:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-10T03:01:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\bg.jpg">
+      <PackagePath>Assets\bg.jpg</PackagePath>
+      <Modified>2016-01-09T09:28:10.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\bg2.jpg">
+      <PackagePath>Assets\bg2.jpg</PackagePath>
+      <Modified>2016-01-09T09:41:48.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\BG3.jpg">
+      <PackagePath>Assets\BG3.jpg</PackagePath>
+      <Modified>2016-01-09T10:43:06.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\east.jpg">
+      <PackagePath>Assets\east.jpg</PackagePath>
+      <Modified>2016-01-09T11:48:03.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\map.jpg">
+      <PackagePath>Assets\map.jpg</PackagePath>
+      <Modified>2016-01-09T09:44:21.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\ne.jpg">
+      <PackagePath>Assets\ne.jpg</PackagePath>
+      <Modified>2016-01-09T15:42:16.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\ne2.jpg">
+      <PackagePath>Assets\ne2.jpg</PackagePath>
+      <Modified>2016-01-09T15:44:36.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\ne3.jpg">
+      <PackagePath>Assets\ne3.jpg</PackagePath>
+      <Modified>2016-01-09T15:46:29.306</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\neee.jpg">
+      <PackagePath>Assets\neee.jpg</PackagePath>
+      <Modified>2016-01-09T15:55:02.282</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\neeeeeeeeeeee.jpg">
+      <PackagePath>Assets\neeeeeeeeeeee.jpg</PackagePath>
+      <Modified>2016-01-09T16:01:51.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\noooooo.jpg">
+      <PackagePath>Assets\noooooo.jpg</PackagePath>
+      <Modified>2016-01-09T16:29:33.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\north.jpg">
+      <PackagePath>Assets\north.jpg</PackagePath>
+      <Modified>2016-01-09T10:52:28.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\NORTHeast.jpg">
+      <PackagePath>Assets\NORTHeast.jpg</PackagePath>
+      <Modified>2016-01-09T11:39:42.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\rep.jpg">
+      <PackagePath>Assets\rep.jpg</PackagePath>
+      <Modified>2016-01-09T23:15:00.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\sou.jpg">
+      <PackagePath>Assets\sou.jpg</PackagePath>
+      <Modified>2016-01-09T11:53:52.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\south.jpg">
+      <PackagePath>Assets\south.jpg</PackagePath>
+      <Modified>2016-01-09T11:52:27.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\Assets\west.jpg">
+      <PackagePath>Assets\west.jpg</PackagePath>
+      <Modified>2016-01-09T11:06:02.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\bin\Debug\Geek City.xr.xml">
+      <PackagePath>Geek City.xr.xml</PackagePath>
+      <Modified>2016-01-10T03:28:20.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-01-09T07:33:04.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\bin\Debug\Assets\BlankPage1.xbf">
+      <PackagePath>Assets\BlankPage1.xbf</PackagePath>
+      <Modified>2016-01-09T19:55:14.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\bin\Debug\Assets\BlankPage2.xbf">
+      <PackagePath>Assets\BlankPage2.xbf</PackagePath>
+      <Modified>2016-01-09T13:22:33.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\bin\Debug\Assets\BlankPage3.xbf">
+      <PackagePath>Assets\BlankPage3.xbf</PackagePath>
+      <Modified>2016-01-09T19:55:14.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\bin\Debug\Assets\East.xbf">
+      <PackagePath>Assets\East.xbf</PackagePath>
+      <Modified>2016-01-09T23:36:59.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\bin\Debug\Assets\Fast.xbf">
+      <PackagePath>Assets\Fast.xbf</PackagePath>
+      <Modified>2016-01-09T23:36:59.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\bin\Debug\Assets\HowToPlay.xbf">
+      <PackagePath>Assets\HowToPlay.xbf</PackagePath>
+      <Modified>2016-01-10T07:45:14.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\bin\Debug\Assets\North.xbf">
+      <PackagePath>Assets\North.xbf</PackagePath>
+      <Modified>2016-01-09T23:36:59.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\bin\Debug\Assets\NorthEast.xbf">
+      <PackagePath>Assets\NorthEast.xbf</PackagePath>
+      <Modified>2016-01-09T23:36:59.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\bin\Debug\Assets\South.xbf">
+      <PackagePath>Assets\South.xbf</PackagePath>
+      <Modified>2016-01-09T23:36:59.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\bin\Debug\Assets\West.xbf">
+      <PackagePath>Assets\West.xbf</PackagePath>
+      <Modified>2016-01-09T23:36:59.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-01-10T03:28:21.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\coding events\code fun do\CITY QUIZ\CITY QUIZ\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-07T06:26:46.641</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

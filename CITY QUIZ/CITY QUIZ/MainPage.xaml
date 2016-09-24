@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="CITY_QUIZ.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CITY_QUIZ"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Width="1366" Height="768" >
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/bg.jpg"/>
+        </Grid.Background>
+        <TextBlock x:Name="appname" HorizontalAlignment="Center" Margin="374,137,322,0" TextWrapping="Wrap" Text="GEEK CITY" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="240" Width="670" FontSize="140"/>
+        <Button x:Name="start" Content="Start" HorizontalAlignment="Left" Margin="535,379,0,0" VerticalAlignment="Top" Height="134" Width="372" FontSize="64" Click="start_Click" Background="Transparent" BorderBrush="White" FontFamily="Global User Interface"/>
+        <Button x:Name="exit" Content="Exit" HorizontalAlignment="Left" Margin="535.23,557.203,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="132.416" UseLayoutRounding="False" Width="373.569" d:LayoutRounding="Auto" FontSize="64" Click="exit_Click">
+            <Button.RenderTransform>
+                <CompositeTransform Rotation="-0.282"/>
+            </Button.RenderTransform>
+        </Button>
+    </Grid>
+</Page>

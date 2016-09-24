@@ -1,0 +1,33 @@
+﻿<Page
+    x:Class="CITY_QUIZ.Assets.NorthEast"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CITY_QUIZ.Assets"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Width="1366" Height="768">
+        <Grid.Background>
+            <ImageBrush ImageSource="neeeeeeeeeeee.jpg" Stretch="Fill"/>
+        </Grid.Background>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Height="108" Margin="10,10,0,0" TextWrapping="Wrap" Text="NORTHEAST INDIA" VerticalAlignment="Top" Width="742" FontSize="85.333"/>
+        <TextBlock x:Name="nequestion" HorizontalAlignment="Center" Height="269" Margin="10,190,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="1323" TextAlignment="Center" FontSize="48"/>
+        <TextBlock x:Name="neo1" HorizontalAlignment="Left" Height="115" Margin="10,504,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="655" TextAlignment="Center" FontSize="48"/>
+        <TextBlock x:Name="neo3" HorizontalAlignment="Left" Height="115" Margin="10,643,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="655" TextAlignment="Center" FontSize="48"/>
+        <TextBlock x:Name="neo4" HorizontalAlignment="Left" Height="115" Margin="684,643,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="655" TextAlignment="Center" FontSize="48"/>
+        <TextBlock x:Name="neo2" HorizontalAlignment="Left" Height="115" Margin="684,504,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="655" TextAlignment="Center" FontSize="48"/>
+        <Button x:Name="nebutt3" Content="" HorizontalAlignment="Left" Height="115" Margin="10,643,0,0" VerticalAlignment="Top" Width="655" FontFamily="Global User Interface" Click="nebutt3_Click"/>
+        <Button x:Name="nebutt2" Content="" HorizontalAlignment="Left" Height="115" Margin="684,504,0,0" VerticalAlignment="Top" Width="655" FontFamily="Global User Interface" Click="nebutt2_Click"/>
+        <Button x:Name="nebutt4" Content="" HorizontalAlignment="Left" Height="115" Margin="684,643,0,0" VerticalAlignment="Top" Width="655" Click="nebutt4_Click"/>
+        <Button x:Name="nebutt1" Content="" HorizontalAlignment="Left" Height="115" Margin="10,504,0,0" VerticalAlignment="Top" Width="655" FontFamily="Global User Interface" Click="nebutt1_Click"/>
+        <TextBlock x:Name="netimer" HorizontalAlignment="Left" Height="100" Margin="752,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" FontSize="48" TextAlignment="Center"/>
+        <TextBlock x:Name="score" HorizontalAlignment="Left" Height="100" Margin="983,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="353" FontSize="48"/>
+        <Button x:Name="nereplay" Content="" HorizontalAlignment="Left" Margin="1254,-3,-3,0" VerticalAlignment="Top" Height="104" Width="115" FontSize="29.333" Click="nereplay_Click" BorderThickness="0">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="123.png"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Page>

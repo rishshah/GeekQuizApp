@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RISH-55</Machine>
+    <WindowsUser>Rishabh</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d78c7a77-6232-4382-9cda-1716463e37b9</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\bin\Release\Geek City.exe">
+      <PackagePath>Geek City.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\123.png">
+      <PackagePath>Assets\123.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\30by30.png">
+      <PackagePath>Assets\30by30.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\50by50.png">
+      <PackagePath>Assets\50by50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\logo1.png">
+      <PackagePath>Assets\logo1.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\Square30x30Logo.scale-100.png">
+      <PackagePath>Assets\Square30x30Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\bg.jpg">
+      <PackagePath>Assets\bg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\bg2.jpg">
+      <PackagePath>Assets\bg2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\BG3.jpg">
+      <PackagePath>Assets\BG3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\east.jpg">
+      <PackagePath>Assets\east.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\map.jpg">
+      <PackagePath>Assets\map.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\ne.jpg">
+      <PackagePath>Assets\ne.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\ne2.jpg">
+      <PackagePath>Assets\ne2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\ne3.jpg">
+      <PackagePath>Assets\ne3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\neee.jpg">
+      <PackagePath>Assets\neee.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\neeeeeeeeeeee.jpg">
+      <PackagePath>Assets\neeeeeeeeeeee.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\noooooo.jpg">
+      <PackagePath>Assets\noooooo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\north.jpg">
+      <PackagePath>Assets\north.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\NORTHeast.jpg">
+      <PackagePath>Assets\NORTHeast.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\rep.jpg">
+      <PackagePath>Assets\rep.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\sou.jpg">
+      <PackagePath>Assets\sou.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\south.jpg">
+      <PackagePath>Assets\south.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\Assets\west.jpg">
+      <PackagePath>Assets\west.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\bin\Release\Geek City.xr.xml">
+      <PackagePath>Geek City.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\bin\Release\Assets\BlankPage1.xbf">
+      <PackagePath>Assets\BlankPage1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\bin\Release\Assets\BlankPage2.xbf">
+      <PackagePath>Assets\BlankPage2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\bin\Release\Assets\BlankPage3.xbf">
+      <PackagePath>Assets\BlankPage3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\bin\Release\Assets\East.xbf">
+      <PackagePath>Assets\East.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\bin\Release\Assets\Fast.xbf">
+      <PackagePath>Assets\Fast.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\bin\Release\Assets\HowToPlay.xbf">
+      <PackagePath>Assets\HowToPlay.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\bin\Release\Assets\North.xbf">
+      <PackagePath>Assets\North.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\bin\Release\Assets\NorthEast.xbf">
+      <PackagePath>Assets\NorthEast.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\bin\Release\Assets\South.xbf">
+      <PackagePath>Assets\South.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\bin\Release\Assets\West.xbf">
+      <PackagePath>Assets\West.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rishabh shah\Documents\Visual Studio 2015\Projects\CITY QUIZ\CITY QUIZ\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
